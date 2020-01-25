@@ -1,0 +1,123 @@
+0. Write a Java Program to swap two numbers with using the third variable.
+
+1. Fibonacci Series
+
+2. A prime Number
+
+3. String Palindrome (With predefined methods and without-predefined methods like reverse())
+
+4. Number Palindrome
+
+5. ArmStrong number.
+
+6. Factorial
+
+7. Reverse of String
+
+8. Reverse of number.
+
+9. Display only repeated elements in array.
+	Hint: Input: {1,5,3,5,2,8,1} output: {1,5} 
+
+10. Display non-repeated elements. 
+	Hint: Input: {1,5,3,5,2,8,1} output: {3,2,8}
+
+11. Display unique elements - All elements once.
+    Hint: Input: {1,5,3,5,2,8,1} output: {1,5,3,2,8} 
+
+11 (a). How to find the missing number in integer array of 1 to 100?
+
+12. Write a program to find number of small characters, capital characters, special characters.
+
+
+13. Write a program to find number of words in a string.
+     a. With pre-defined funtions
+     b. Without pre-defined function split();
+
+14. Write a program to find highest amoung four given numbers.
+
+
+15. Write a program to find common factors for given two numbers.
+
+
+16. Write a program to find highest commoun factor for given two numbers.
+
+17. Write a program to reverse an array without using second array.
+
+18. Write a program to find given string is anagram or not.
+
+19. Write a program to display non repeated characters in given string or not.
+
+
+20. Write a program to find given string is panagram or not.
+
+21. Write a program to sort an array in ascending order (bubblesort,selection,insertion sort,merge sort)
+
+
+22. Write a program to search for a given element in an array.(linear search, binary search and learn thier differences).
+
+23. Print all permutations of String.
+Write a Java program to print all permutations of a given String. For example, if given String is "GOD" then your program should print all 6 permutations of this string, e.g. "GOD," "OGD," "DOG," "GDO," "ODG," and "DGO."
+
+
+24. Two Matrix addition.
+
+
+25. Two Matrix multiplication.
+
+
+26. Write a program which accepts two given String and checks if they are the rotation of each. If they then return true otherwise return false. A String is said to be a rotation of other string if they contain same characters and the sequence is rotated across any character, e.g. "dabc" is a rotation of "abcd" but "dbac" is not.
+
+
+27. Remove duplicate elements in an array.
+
+
+28. Write a java program to find duplicate characters and their count in a given string. For example, in a string “Better Butter”, duplicate characters and their count is t : 4, e : 3, r : 2 and B : 2. 
+
+
+29. Find the sum of the elements of an array.
+
+
+30. Write the program to find the sum of digits of an array.
+
+
+31. Write a java program to find the largest number ‘L’ less than a given number ‘N’ which should not contain a given digit ‘D’. For example, If 145 is the given number and 4 is the given digit, then you should find the largest number less than 145 such that it should not contain 4 in it. In this case, 139 will be the answer. This program is one of the logical programs in java.
+
+
+
+32. Write a java program to find all pairs of elements in the given array whose sum is equal to a given number. For example, if {4, 5, 7, 11, 9, 13, 8, 12} is an array and 20 is the given number, then you have to find all pairs of elements in this array whose sum must be 20. In this example, (9, 11), (7, 13) and (8, 12) are such pairs whose sum is 20.
+
+
+33. Write a java program to find all the leaders in an integer array. An element is said to be a leader if all the elements on it’s right side are smaller than it. Rightmost element is always a leader. For example, if {14, 9, 11, 7, 8, 5, 3} is the given array then {14, 11, 8, 5, 3} are the leaders in this array.
+
+
+34. Write a java program to take input number from the user, reverse it and add it to itself. If the sum is not a palindrome then repeat the procedure until you get a palindrome. 
+
+
+35. Write a java program to take input number from the user, reverse it and add it to itself. If the sum is not a palindrome then repeat the procedure until you get a palindrome. 
+
+36. Write a java program or function to count the occurrences of each element in an array. For example, if {12, 9, 12, 9, 10, 9, 10, 11} is the input array, then the count of occurrences of each element is {12:2, 9:3, 10:2, 11:1}.
+
+37. How to find common elements in three sorted array?
+Now we are coming on territory of tough array questions. Given three arrays sorted in non-decreasing order, print all common elements in these arrays.
+
+Examples:
+
+input1 = {1, 5, 10, 20, 40, 80}
+input2 = {6, 7, 20, 80, 100}
+input3 = {3, 4, 15, 20, 30, 70, 80, 120}
+Output: 20, 80
+
+
+
+38. How to rearrange array in alternating positive and negative number?
+Given an array of positive and negative numbers, arrange them in an alternate fashion such that every positive number is followed by negative and vice-versa maintaining the order of appearance.
+Number of positive and negative numbers need not be equal. If there are more positive numbers they appear at the end of the array. If there are more negative numbers, they too appear in the end of the array. This is also a difficult array problem to solve and you need lot of practice to solve this kind of problems in real interviews, especially when you see it first time. If you have time constraint then always attempt these kind of questions once you are done with easier ones. 
+
+Example:
+
+Input: {1, 2, 3, -4, -1, 4}
+Output: {-4, 1, -1, 2, 3, 4}
+
+Input: {-5, -2, 5, 2, 4, 7, 1, 8, 0, -8}
+output: {-5, 5, -2, 2, -8, 4, 7, 1, 8, 0} 
